@@ -1094,7 +1094,7 @@ section {
   background: #1bac91;
   color: #fff;
 }
-.contact form {
+.contact .form {
   width: 100%;
   padding: 30px;
   background: #fff;
@@ -1140,7 +1140,7 @@ section {
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
 }
-.contact .form input, .contact .php-email-form textarea {
+.contact .form input, .contact .form textarea {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
